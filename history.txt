@@ -1,0 +1,30 @@
+20.06.2017 22:34:42
+
+Add PyCharm project.
+
+Add README.md
+
+20.06.2017 22:32:54
+
+Adding project to django
+
+django-admin.py startproject ebaycra
+
+
+20.06.2017 22:17:47 Start project ! 
+
+
+Create venv.
+
+Starting with https://habrahabr.ru/post/240463/
+
+create requirements.txt with Django
+
+pip install -r requirements.txt
+
+fix version by pip freeze
+
+
+
+
+
